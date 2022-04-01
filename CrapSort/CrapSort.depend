@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648465642 source:c:\school\algoritmer\crapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
